@@ -258,7 +258,7 @@ $_SESSION['first'] = false;
                 <div class="people">
                   <span>Алина</span> <span class="lastname">НУРМУХАМЕТОВА</span>
                 </div>
-                <a href="mailto:smm@qwmo.net">smm@qwmo.net</a>
+                <a href="mailto:an@qwmo.net">an@qwmo.net</a>
                 <a class="phone" href="tel:+7 700 250 58 26">+7 700 250 58 26</a>
               </div>
           </div>
@@ -391,7 +391,11 @@ $_SESSION['first'] = false;
 
           <div class="col-sm-12">
             <div class="col-wrapper">
-
+              <div class="idocs_btn">
+                <div class="idocs_btn-cont">
+                  <a target="_blank" download href="/pages/perechen.docx" style="text-align:center;justify-content:center;"><img src="../download.png" alt="">Список опасных отходов (.docx)</a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -405,6 +409,7 @@ $_SESSION['first'] = false;
    </div>
    </div>
    </div>
+
    </div>
 
    <div class="sites_cont row text-center services-1">
