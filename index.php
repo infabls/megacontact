@@ -258,6 +258,8 @@ $_SESSION['first'] = false;
                 <div class="people">
                   <span>Алина</span> <span class="lastname">НУРМУХАМЕТОВА</span>
                 </div>
+                <a href="mailto:smm@qwmo.net">smm@qwmo.net</a>
+                <a class="phone" href="tel:+7 700 250 58 26">+7 700 250 58 26</a>
               </div>
           </div>
           <div class="box row">
