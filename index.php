@@ -419,7 +419,7 @@ $_SESSION['first'] = false;
            <div class="item">
                <div class="item_card">
                    <a target="_blank" href="https:/promothod.kz">
-                       <img class=" lazyloaded" data-src="img/partners/pd.jpg" alt="promothod" src="img/partners/pd.jpg">
+                       <img class=" lazyload" data-src="img/partners/pd.jpg" alt="promothod">
                        <br>
                        <span class="title">ТОО «Промотход Казахстан»</span>
                    </a>
@@ -454,7 +454,7 @@ $_SESSION['first'] = false;
           <div class="item">
            <div class="item_card">
                <a class="text" target="_blank" href="https://kzsr.kz">
-                   <img class=" lazyloaded" data-src="img/partners/4.jpg" alt="kzsr" src="img/partners/4.jpg">
+                   <img class=" lazyload" data-src="img/partners/4.jpg" alt="kzsr">
                    <br>
                    <span class="title">ТОО «КазВторРесурс»</span>
                </a>
@@ -481,7 +481,7 @@ $_SESSION['first'] = false;
    <!--   <div class="item">
        <div class="item_card">
            <a target="_blank" href="https://qwmo.net">
-               <img class=" lazyloaded" data-src="img/partners/111.jpg" alt="qwmo" src="img/partners/111.jpg">
+               <img class=" lazyload" data-src="img/partners/111.jpg" alt="qwmo" src="img/partners/111.jpg">
                <br>
                <span class="title">ТОО «Казахстанский оператор по управлению отходами»</span>
            </a>
@@ -511,7 +511,7 @@ $_SESSION['first'] = false;
        <div class="item">
           <div class="item_card">
            <a target="_blank" href="https://rpo.kz/">
-               <img class=" lazyloaded" data-src="img/partners/8.jpg" alt="rpo" src="img/partners/8.jpg">
+               <img class=" lazyload" data-src="img/partners/8.jpg" alt="rpo">
                <br>
                <span class="title">ТОО «Промотход Сервис»</span>
            </a>
@@ -542,7 +542,7 @@ $_SESSION['first'] = false;
    <div class="item">
        <div class="item_card">
           <a target="_blank" href="https://trrr.kz/">
-           <img class=" lazyloaded" data-src="img/partners/3.jpg" alt="trrr" src="img/partners/3.jpg">
+           <img class=" lazyload" data-src="img/partners/3.jpg" alt="trrr">
            <br>
            <span class="title">ТОО «RRR Technology»</span>
        </a>
@@ -570,7 +570,7 @@ $_SESSION['first'] = false;
    <div class="item">
        <div class="item_card">
            <a target="_blank">
-               <img class=" lazyloaded" data-src="img/partners/2.jpg" alt="qwmo" src="img/partners/2.jpg">
+               <img class=" lazyload" data-src="img/partners/2.jpg" alt="qwmo">
                <br>
                <span class="title">ТОО «Waste Logistic»</span>
            </a>
@@ -601,7 +601,7 @@ $_SESSION['first'] = false;
        <div class="item">
            <div class="item_card">
             <a target="_blank">
-               <img class=" lazyloaded" data-src="img/partners/9.jpg" alt="SmartWaste" src="img/partners/9.jpg">
+               <img class=" lazyload" data-src="img/partners/9.jpg" alt="SmartWaste">
            </a>
            <span class="title">ТОО «Smart Waste»</span>
            <div class="text">
@@ -628,7 +628,7 @@ $_SESSION['first'] = false;
    <div class="item">
        <div class="item_card">
            <a target="_blank">
-               <img class=" lazyloaded" data-src="img/partners/5.jpg" alt="qwmo" src="img/partners/5.jpg">
+               <img class=" lazyload" data-src="img/partners/5.jpg" alt="qwmo">
            </a>
            <span class="title">ТОО «Electronic Waste Recycling»</span>
            <div class="text">
@@ -641,7 +641,7 @@ $_SESSION['first'] = false;
    <div class="item">
        <div class="item_card">
            <a target="_blank" href="https://empls.biz">
-               <img class=" lazyloaded" data-src="img/partners/6.jpg" alt="qwmo" src="img/partners/6.jpg">
+               <img class=" lazyload" data-src="img/partners/6.jpg" alt="qwmo">
                <br>
                <span class="title">
                    ТОО «ЭкоИмпульс»
@@ -676,7 +676,7 @@ $_SESSION['first'] = false;
        <div class="item">
            <div class="item_card">
                <a target="_blank">
-                   <img class=" lazyloaded" data-src="img/partners/7.jpg" alt="polymerwaste" src="img/partners/7.jpg">
+                   <img class=" lazyload" data-src="img/partners/7.jpg" alt="polymerwaste">
                    <br>
                </a>
                <span class="title">
@@ -701,7 +701,7 @@ $_SESSION['first'] = false;
        <div class="item">
            <div class="item_card">
             <a target="_blank">
-             <img class=" lazyloaded" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»" src="img/partners/0.jpg"><br>
+             <img class=" lazyload" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»"><br>
          </a>
          <span class="title">
              ТОО «Chemical Waste»
@@ -733,7 +733,7 @@ $_SESSION['first'] = false;
    <div class="item">
        <div class="item_card">
            <a target="_blank">
-             <img class=" lazyloaded" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»" src="img/partners/0.jpg">
+             <img class=" lazyload" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»">
              <br>
          </a>
          <span class="title">
@@ -758,7 +758,7 @@ $_SESSION['first'] = false;
        <div class="item">
            <div class="item_card">
                <a target="_blank">
-                 <img class=" lazyloaded" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»" src="img/partners/0.jpg">
+                 <img class=" lazyload" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»">
              </a>
              <span class="title">
                  ТОО «Waste Recycling Factory»
@@ -787,7 +787,7 @@ $_SESSION['first'] = false;
    <div class="item">
        <div class="item_card">
            <a target="_blank">
-             <img class=" lazyloaded" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»" src="img/partners/0.jpg"><br>
+             <img class=" lazyload" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»"><br>
          </a>
          <span class="title">
              ТОО «Промотход Восток»
@@ -819,7 +819,7 @@ $_SESSION['first'] = false;
    <div class="item">
        <div class="item_card">
            <a target="_blank">
-             <img class=" lazyloaded" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»" src="img/partners/0.jpg"><br>
+             <img class=" lazyload" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»"><br>
          </a>
          <span class="title">
              ТОО «ПромЭкоТехнология»
@@ -855,7 +855,7 @@ $_SESSION['first'] = false;
        <div class="item">
            <div class="item_card">
             <a target="_blank">
-             <img class=" lazyloaded" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»" src="img/partners/0.jpg"><br>
+             <img class=" lazyload" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»"><br>
          </a>
          <span class="title">
              ТОО «Промотход Development»
