@@ -29,16 +29,15 @@
       </div>
     </div>
     <!--/.nav-collapse -->
-  </div>
-<link rel="stylesheet" href="/css/font-awesome.min.css">
-  
+  </div>  
 <input type="checkbox" id="menu-toggle" />
-<label for="menu-toggle" class="menu-icon"><i class="fa fa-bars"></i></label>
+<label for="menu-toggle" class="menu-icon">
+  <!-- <i class="fa fa-bars"></i> -->
+  <img src="/img/menu.png" alt="">
+</label>
 <div class="slideout-sidebar">
   <ul>
     <li><a href="/">Главная</a></li>
-            <!-- <li><a href="#services">Services</a></li>
-            <li><a href="#portfolio">Portfolio</a></li> -->
             <li><a href="../pages/4">Как заключить договор с компанией</a></li>
             <li><a href="../pages/2">Об электронном документе и ЭЦП</a></li>
             <li><a href="../pages/3">Официальное заявление компании о переходе на ЭЦД</a></li>
