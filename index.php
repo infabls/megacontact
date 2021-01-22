@@ -110,11 +110,11 @@ $_SESSION['first'] = false;
                           </div>
                           <div class="item">
                               <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ИСПОЛНЕНИЯ ДОГОВОРОВ:</h3> </div>
-                            <div class="people">
+                            <!-- <div class="people">
                                 <span>Айнура</span> <span class="lastname">ДУЙСЕНБЕКОВА</span>
                             </div> <a href="mailto:mlb@qwmo.net">mlb@qwmo.net </a>
                               <a class="phone" href="tel:+7 708 436 80 55">+7 708 436 80 55</a>
-                              <a class="phone" href="tel:+77212368055">+7 (7212) 36 80 55</a>
+                              <a class="phone" href="tel:+77212368055">+7 (7212) 36 80 55</a> -->
                               <div class="people">
                                 <span>Анастасия</span> <span class="lastname">ГРОМЫКО</span>
                               </div>
