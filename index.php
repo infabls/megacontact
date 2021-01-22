@@ -210,9 +210,9 @@ $_SESSION['first'] = false;
                  <a class="phone" href="tel:+77212996530">+7 (7212) 99 65 30</a>
                  <div class="purpule boss">Юрист</div>
                  <div class="people">
-                   <span>Жазира</span> <span class="lastname">НУРЛАНОВА</span>
+                   <span>Ольга</span> <span class="lastname">ГОРБУНОВА</span>
                  </div>
-                  <a href="mailto:lda@qwmo.net">lda@qwmo.net</a>
+                  <a href="mailto:lda@qwmo.net">ldb@qwmo.net</a>
              </div>
              <div class="item">
                  <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ЭКОЛОГИИ:</h3></div>
