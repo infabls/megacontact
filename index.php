@@ -249,15 +249,17 @@ $_SESSION['first'] = false;
                 <a href="mailto:pr@qwmo.net">pr@qwmo.net</a>
                <a class="phone" href="tel:+77084396448">+7 708 439 64 48</a>
            </div>
+         </div>
            <div class="box row">
              <div class="item_press col-sm-12 item">
                 <div class="purpule boss">
                    Специалист по связям с прессой
-               </div>
+                </div>
                <div class="people">
                      <span>Алина</span> <span class="lastname">НУРМУХАМЕТОВА</span>
                </div>
-           </div>
+            </div>
+          </div>
            <div class="box row">
              <div class="item_press col-sm-12 item">
                 <div class="purpule boss">
