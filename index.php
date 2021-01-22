@@ -34,6 +34,9 @@ $_SESSION['first'] = false;
           Корпоративный e-mail компании <a href="mailto:in@qwmo.net">in@qwmo.net</a>
 
         </div>
+        <div class="notaplus" style="font-size: 20px; margin-top: 10px">
+          Наша компания зарегистрирована на IDocs.kz, Doculife.kz, ISmet.kz и Договор24 для электронно-цифрового документооборота с контрагентами.
+        </div>
           <div class="row text-center services-1">
             <div class="col-sm-4">
                   <div class="col-wrapper">
