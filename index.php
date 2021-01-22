@@ -248,12 +248,20 @@ $_SESSION['first'] = false;
            </div>
            <div class="box row">
              <div class="item_press col-sm-12 item">
-                <div class="purpule boss" style="text-transform: uppercase;">
+                <div class="purpule boss">
                    Специалист по связям с прессой
                </div>
                <div class="people">
                      <span>Алина</span> <span class="lastname">НУРМУХАМЕТОВА</span>
                </div>
+           </div>
+           <div class="box row">
+             <div class="item_press col-sm-12 item">
+                <div class="purpule boss">
+                   Телефон пресс-службы
+               </div>
+                     <a class="phone" href="tel:+7 7212 79 40 50">+7 7212 79 40 50</a>
+
            </div>
         </div>
         </div>
