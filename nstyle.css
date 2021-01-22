@@ -403,6 +403,10 @@ display: flex !important;
 }
 
 .menu-icon {
+  display: none;
+}
+
+.menu-icon {
   position: absolute;
   top: 18px;
   left: 30px;
@@ -442,7 +446,9 @@ display: flex !important;
     max-width: 100%;
     margin: 30px auto 0;
   }
-  
+    .menu-icon {
+  display: block;
+  }
   #menu-toggle:checked ~ .content-container {
     padding-left: 0;
   }
