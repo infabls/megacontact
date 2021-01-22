@@ -251,14 +251,26 @@ $_SESSION['first'] = false;
            </div>
          </div>
            <div class="box row">
-             <div class="item_press col-sm-12 item">
+              <div class="item_press col-sm-12 item">
                 <div class="purpule boss">
                    Специалист по связям с прессой
                 </div>
-               <div class="people">
-                     <span>Алина</span> <span class="lastname">НУРМУХАМЕТОВА</span>
-               </div>
-            </div>
+                <div class="people">
+                  <span>Алина</span> <span class="lastname">НУРМУХАМЕТОВА</span>
+                </div>
+              </div>
+          </div>
+          <div class="box row">
+              <div class="item_press col-sm-12 item">
+                <div class="purpule boss">
+                  Ведущий корпоративный дизайнер
+                </div>
+                <div class="people">
+                  <span>Герасим</span> <span class="lastname">ИВАНОВ</span>
+                </div>
+                <a href="mailto:ig@qwmo.net">ig@qwmo.net</a>
+                <a class="phone" href="tel:+7 777 134 48 86">+7 777 134 48 86</a>
+              </div>
           </div>
            <div class="box row">
              <div class="item_press col-sm-12 item">
