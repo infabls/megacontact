@@ -37,6 +37,9 @@ $_SESSION['first'] = false;
         <div class="notaplus" style="font-size: 20px; margin-top: 10px">
           Наша компания зарегистрирована на IDocs.kz, Doculite.kz, ISmet.kz и Договор24 для электронно-цифрового документооборота с контрагентами.
         </div>
+        <div id="myecomarker">
+          <a href="https://emr.kz" target="_blank"> <img src="/img/ecomarker.png" alt="Экомаркер"></a>
+        </div>
           <div class="row text-center services-1">
             <div class="col-sm-4">
                   <div class="col-wrapper">

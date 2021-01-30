@@ -511,3 +511,29 @@ display: flex !important;
   }
   
 }
+
+/*екомаркер*/
+@media (min-width: 767px) {
+
+  #myecomarker {
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 20px;
+    position: absolute;
+    top: 1650px;
+    left: 150px;
+  }
+
+}
+
+@media (max-width: 767px) {
+    #myecomarker {
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 20px;
+
+  }
+    #myecomarker img {
+      width: 100%;
+    }
+}
