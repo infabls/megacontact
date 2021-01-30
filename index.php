@@ -35,7 +35,7 @@ $_SESSION['first'] = false;
 
         </div>
         <div class="notaplus" style="font-size: 20px; margin-top: 10px">
-          Наша компания зарегистрирована на IDocs.kz, Doculife.kz, ISmet.kz и Договор24 для электронно-цифрового документооборота с контрагентами.
+          Наша компания зарегистрирована на IDocs.kz, Doculite.kz, ISmet.kz и Договор24 для электронно-цифрового документооборота с контрагентами.
         </div>
           <div class="row text-center services-1">
             <div class="col-sm-4">
@@ -57,9 +57,12 @@ $_SESSION['first'] = false;
             </div>
             <div class="item">
             <div class="purpule boss">Менеджер по разработке коммерческих предложений</div>
-            <div class="people">
-              <span>Оксана</span> <span class="lastname">РЕХМАН</span>
+            <div class="purpule note" style="background-color: #c41809; color: #fff;">
+              Внимание! Разработка коммерческого предложения занимает от 5 до 7 рабочих дней!
             </div>
+            <!-- <div class="people">
+              <span>Оксана</span> <span class="lastname">РЕХМАН</span>
+            </div> -->
             <a href="mailto:hpa@qwmo.net">hpa@qwmo.net</a>
             <a class="phone" href="tel:+7 (708) 439 64 41">+7 (708) 439 64 41</a>
           </div>
