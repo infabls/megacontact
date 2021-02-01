@@ -30,6 +30,10 @@
 		</div>
 	</div>
 	<div class="page">
+		 <div class="lang">
+	      <a class="rus" href="/pages/1">Рус</a>
+	      <a class="kaz" href="/pages/6">Каз</a>
+	    </div>
 		<h1 class="redtxt" style="text-align: center;">Подробная инструкция для контрагентов ТОО «Казахстанский оператор по управлению отходами» и ответы на вопросы по бумажным носителям.
 		</h1>
 		<p>

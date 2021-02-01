@@ -36,8 +36,8 @@ span{
         </div>
 	<div class="page" style="text-align:left;">
 <div class="lang">
-  <a class="rus" href="#">Рус</a>
-  <a class="kaz" href="#">Каз</a>
+  <a class="rus" href="/pages/4">Рус</a>
+  <a class="kaz" href="/pages/5">Каз</a>
 </div>
 <h1  style="text-align:center;" class="redtxt">
   Заключить договор с нашей компанией очень просто.<br>
