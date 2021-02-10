@@ -26,7 +26,10 @@
       <div class="container inner">
 	<div class="page" style="text-align:center;">
 
-<img src="../img/post.jpg" alt="">
+<img src="../img/IMG_0002-1.jpg" alt="">
+<img src="../img/IMG_0002-2.jpg" alt="">
+<img src="../img/IMG_0002-3.jpg" alt="">
+<img src="../img/IMG_0002-4.jpg" alt="">
 
 	</div>
 </div>
