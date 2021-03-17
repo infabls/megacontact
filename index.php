@@ -63,9 +63,9 @@ $_SESSION['first'] = false;
             <div class="purpule note" style="background-color: #c41809; color: #fff;">
               Внимание! Разработка коммерческого предложения занимает от 5 до 7 рабочих дней!
             </div>
-            <!-- <div class="people">
-              <span>Оксана</span> <span class="lastname">РЕХМАН</span>
-            </div> -->
+             <div class="people">
+              <span>Анастасия</span> <span class="lastname">ГАНИНА</span>
+            </div> 
             <a href="mailto:hpa@qwmo.net">hpa@qwmo.net</a>
             <a class="phone" href="tel:+7 (708) 439 64 41">+7 (708) 439 64 41</a>
           </div>
@@ -79,10 +79,10 @@ $_SESSION['first'] = false;
               Менеджеры по закупкам
           </div>
           <div class="people">
-            <span>Карина</span> <sapn class="lastname">МАСТАЕВА</sapn>
+            <span>Карина</span> <span class="lastname">МАСТАЕВА</span>
           </div>
           <a href="mailto:hbb@qwmo.net">hbb@qwmo.net</a>
-          <a class="phone" href="tel:+77084396449">+7 708 439 64 49</a>
+          <a class="phone" href="tel:+77084396449">+7 708 439 64 49</a><br>
           <div class="people">
             <span>Татьяна</span> <sapn class="lastname">ГРУЗИНСКАЯ</sapn>
           </div>
@@ -100,7 +100,7 @@ $_SESSION['first'] = false;
                                  Офис-менеджер
                              </div>
                              <div class="people">
-                               <span>Алеся</span> <span class="lastname">МОРОЗОВА</span>
+                               <span>Дина</span> <span class="lastname">ГРИЦОВА</span>
                              </div>
                                <a href="mailto:om@qwmo.net">om@qwmo.net</a>
                              <table>
@@ -119,17 +119,19 @@ $_SESSION['first'] = false;
                           </div>
                           <div class="item">
                               <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ИСПОЛНЕНИЯ ДОГОВОРОВ:</h3> </div>
-                            <!-- <div class="people">
-                                <span>Айнура</span> <span class="lastname">ДУЙСЕНБЕКОВА</span>
-
-                            </div> --><a href="mailto:mlb@qwmo.net">mlb@qwmo.net </a>
-                              <a class="phone" href="tel:+7 708 436 80 55">+7 708 436 80 55</a>
-                              <a class="phone" href="tel:+77212368055">+7 (7212) 36 80 55</a>
+                              <span>Руководитель департамента</span>
                               <div class="people">
                                 <span>Анастасия</span> <span class="lastname">ГРОМЫКО</span>
                               </div>
                               <a href="mailto:mla@qwmo.net">mla@qwmo.net</a>
-                              <a class="phone" href="tel:+7 771 705 18 13">+7 771 705 18 13</a>
+                              <a class="phone" href="tel:+7 771 705 18 13">+7 771 705 18 13</a><br>
+                              <span>Менеджер</span>
+                               <div class="people">
+                                <span>Владислав</span> <span class="lastname">ЛАТЫПОВ</span>
+                              </div>
+                              <a href="mailto:mlb@qwmo.net">mlb@qwmo.net </a>
+                              <a class="phone" href="tel:+7 708 436 80 55">+7 708 436 80 55</a>
+                              <a class="phone" href="tel:+77212368055">+7 (7212) 36 80 55</a><br>
                           </div>
 
                   <div class="item_press col-sm-12 item" style="text-align: center;">
@@ -257,7 +259,7 @@ $_SESSION['first'] = false;
                <a class="phone" href="tel:+77084396448">+7 708 439 64 48</a>
            </div>
          </div>
-           <div class="box row">
+<!--            <div class="box row">
               <div class="item_press col-sm-12 item">
                 <div class="purpule boss">
                    Специалист по связям с прессой
@@ -280,7 +282,7 @@ $_SESSION['first'] = false;
                 <a href="mailto:ig@qwmo.net">ig@qwmo.net</a>
                 <a class="phone" href="tel:+7 777 134 48 86">+7 777 134 48 86</a>
               </div>
-          </div>
+          </div> -->
            <div class="box row">
              <div class="item_press col-sm-12 item">
                 <div class="purpule boss">
