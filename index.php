@@ -35,7 +35,7 @@ $_SESSION['first'] = false;
 
         </div>
         <div class="notaplus" style="font-size: 20px; margin-top: 10px">
-          Наша компания зарегистрирована на IDocs.kz, Doculite.kz, ISmet.kz и Договор24 для электронно-цифрового документооборота с контрагентами.
+          Наша компания зарегистрирована на IDocs.kz, Doculite.kz, ISmet.kz и Договор24 <br>  для электронно-цифрового документооборота с контрагентами.
         </div>
         <div id="myecomarker">
           <a href="https://emr.kz" target="_blank"> <img src="/img/ecomarker.png" alt="Экомаркер"></a>
@@ -150,21 +150,21 @@ $_SESSION['first'] = false;
                       <div class="title red-title"><h3 class="gray">ФИНАНСОВЫЙ ДЕПАРТАМЕНТ:</h3></div>
                       Единый номер:<br>
                       <a class="phone" href="tel:+77084396529">+7 708 439 65 29</a>
-                      <span class="purpule boss">Руководитель</span>
+                      <span class="purpule boss">Руководитель, главный бухгалтер</span>
                       <div class="people">
                         <span>Инна Владимировна</span> <span class="lastname">КРИВЧЕНКО</span>
                       </div>
                       <a class="mail" href="mailto:fs@qwmo.net">fs@qwmo.net</a>
                       <div class="purpule boss">Специалисты</div>
                       <div class="people">
-                        Дана <span class="lastname">САДУОВА</span>
+                        Динара <span class="lastname">ДЮСЕКЕНОВА</span>
                       </div>
                       <a class="mail" href="mailto:fsa@qwmo.net">fsa@qwmo.net</a>
                       <span class="purpule boss">Бухгалтер по реализации</span>
                       <div class="people">
                         <span>Галия</span> <span class="lastname">РОМАНЕНКО</span>
                       </div>
-                       <a class="mail" href="mailto:fsk@qwmo.net">fsk@qwmo.net </a>
+                       <a class="mail" href="mailto:fsk@qwmo.net">fsk@qwmo.net </a><br>
                       <div class="people">
                         <span>Наталья</span> <span class="lastname">СИДЯКИНА</span>
                       </div>
@@ -181,14 +181,20 @@ $_SESSION['first'] = false;
           <div class="col-sm-4">
             <div class="col-wrapper">
               <div class="item_press item">
-                    <h3 class="gray boss">Производственная площадка</h3>
+                  <h3 class="gray boss">Производственная площадка</h3>
+                    <div class="purpule boss">Главный инженер</div>
+                    <div class="people">
+                       <span>Сапар</span> <span class="lastname">КОРАБАЕВ</span>
+                     </div>
+                     <a href="mailto:mce@qwmo.net">mce@qwmo.net</a>
+                     <a class="phone" href="tel:+77015116878">+7 701 511 68 78</a>
                      <div class="purpule boss">Мастер производственной площадки</div>
 
                      <div class="people">
-                       <span>Николай </span> <span class="lastname">ЮРЫШЕВ</span>
+                       <span>Арсентий</span> <span class="lastname">СВЯТКИН</span>
                      </div>
                      <a href="mailto:sm@qwmo.net">sm@qwmo.net</a>
-                     <a class="phone" href="tel:+77021174777">+7 702 117 47 77</a>
+                     <a class="phone" href="tel:+77005101133">+7 700 510 11 33</a>
                      Сайт площадки: <a class="phone" target="_blank" href="http://me.qwmo.net/">me.qwmo.net</a>
                 </div>
               <div class="item">
@@ -387,7 +393,7 @@ $_SESSION['first'] = false;
 
                      <div class="purpule" style="text-align:center;">
                          100000, Казахстан, Караганда,
-                         ул. Алиханова, 1, 3 этаж, каб. 312
+                         ул. Алиханова, 1, 3 этаж, каб. 313
                      </div>
                  </div>
 
@@ -860,21 +866,21 @@ $_SESSION['first'] = false;
    </div>
    </div>
    </div>
-   <div class="row">
+<!--    <div class="row">
        <div class="item">
            <div class="item_card">
             <a target="_blank">
              <img class=" lazyload" data-src="img/partners/0.jpg" alt="ТОО «Chemical Waste»"><br>
-         </a>
-         <span class="title">
-             ТОО «Промотход Development»
-         </span>
+            </a>
+            <span class="title">
+                 ТОО «Промотход Development»
+            </span>
 
          <div class="text">
            <span>Адрес:</span>
            <br>
            <span>Алматы, 050050, улица Полежаева, 92а, офис 208. Компания осуществляет свою деятельность в южных регионах Казахстана.</span>
-       </div>
+        </div>
        <div class="text phone__text">
          <div class="phone_left">
            <img class="phone-ico" src="img/phone.png">
@@ -884,10 +890,10 @@ $_SESSION['first'] = false;
            <br>
            <a class="phone" href="tel:+77772459734">+7 777 245 97 34</a>
        </div>
+        </div>
    </div>
    </div>
-   </div>
-   </div>
+   </div> -->
    </div>
    <!-- </div>
    </div> -->
