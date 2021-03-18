@@ -342,15 +342,15 @@ $_SESSION['first'] = false;
                          </tr>
                          <tr>
                              <td>Кокшетау </td>
-                             <td><a href="tel:8 708 439 53 00" class="phone">8 708 439 53 00</a></td>
+                             <td><a href="tel:8 775 081 08 06" class="phone">8 775 081 08 06</a></td>
                          </tr>
                          <tr>
                              <td>Алматы </td>
-                             <td><a href="tel:8 777 245 97 34" class="phone">8 777 245 97 34</a></td>
+                             <td><a href="tel:8 777 209 99 53" class="phone">8 777 209 99 53</a></td>
                          </tr>
                          <tr>
                              <td>Тараз </td>
-                             <td><a href="tel:8 777 117 54 82" class="phone">8 777 117 54 82</a></td>
+                             <td><a href="tel:8 777 117 54 82" class="phone">8 708 439 53 00</a></td>
                          </tr>
                          <tr>
                              <td>Талдыкорган </td>
@@ -365,12 +365,12 @@ $_SESSION['first'] = false;
                              <td><a class="phone" href="tel:8 778 875 88 88">8 778 875 88 88</a></td>
                          </tr>
                          <tr>
-                             <td>Усть-Каменогорск </td>
-                             <td><a class="phone" href="tel:8 771 840 99 91">8 771 840 99 91</a></td>
+                             <td>Усть-Каменогорск</td>
+                             <td><a class="phone" href="tel:8 708 440 27 50">8 708 440 27 50</a></td>
                          </tr>
                          <tr>
                              <td>Балхаш</td>
-                             <td><a class="phone" href="tel:8 776  296 01 51">8 776  296 01 51</a></td>
+                             <td><a class="phone" href="tel:8 776 296 01 51">8 776 296 01 51</a></td>
                          </tr>
                          <tr>
                              <td>Уральск</td>
