@@ -45,7 +45,7 @@ $_SESSION['first'] = false;
                   <div class="col-wrapper">
 
               <div class="title red-title">
-                  <h3 class="gray">ДЕПАРТАМЕНТ ЗАКУПОК:</h3>
+                  <h3 class="gray">ДЕПАРТАМЕНТ ЗАКУПОК</h3>
               </div>
               <span>Единый номер:</span>
               <a class="phone" href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a>
@@ -60,9 +60,6 @@ $_SESSION['first'] = false;
             </div>
             <div class="item">
             <div class="purpule boss">Менеджер по разработке коммерческих предложений</div>
-            <div class="purpule note" style="background-color: #c41809; color: #fff;">
-              Внимание! Разработка коммерческого предложения занимает от 5 до 7 рабочих дней!
-            </div>
              <div class="people">
               <span>Анастасия</span> <span class="lastname">ГАНИНА</span>
             </div> 
@@ -95,7 +92,7 @@ $_SESSION['first'] = false;
                         <div class="col-sm-4">
                           <div class="col-wrapper">
                             <div class="item">
-                             <div class="title red-title"><h3 class="gray">ПРИЕМНАЯ:</h3> </div>
+                             <div class="title red-title"><h3 class="gray">ПРИЕМНАЯ</h3> </div>
                              <div class="purpule boss">
                                  Офис-менеджер
                              </div>
@@ -118,7 +115,7 @@ $_SESSION['first'] = false;
                           </table>
                           </div>
                           <div class="item">
-                              <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ИСПОЛНЕНИЯ ДОГОВОРОВ:</h3> </div>
+                              <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ИСПОЛНЕНИЯ ДОГОВОРОВ</h3> </div>
                               <span>Руководитель департамента</span>
                               <div class="people">
                                 <span>Анастасия</span> <span class="lastname">ГРОМЫКО</span>
@@ -147,7 +144,7 @@ $_SESSION['first'] = false;
                 <div class="col-sm-4">
                   <div class="col-wrapper">
                     <div class="item">
-                      <div class="title red-title"><h3 class="gray">ФИНАНСОВЫЙ ДЕПАРТАМЕНТ:</h3></div>
+                      <div class="title red-title"><h3 class="gray">ФИНАНСОВЫЙ ДЕПАРТАМЕНТ</h3></div>
                       Единый номер:<br>
                       <a class="phone" href="tel:+77084396529">+7 708 439 65 29</a>
                       <span class="purpule boss">Руководитель, главный бухгалтер</span>
@@ -213,7 +210,7 @@ $_SESSION['first'] = false;
           <div class="col-sm-4">
             <div class="col-wrapper">
               <div class="item">
-                  <div class="title red-title"><h3 class="gray">ЮРИДИЧЕСКИЙ ДЕПАРТАМЕНТ: </h3></div>
+                  <div class="title red-title"><h3 class="gray">ЮРИДИЧЕСКИЙ ДЕПАРТАМЕНТ</h3></div>
                   <div class="purpule boss">
                      Юрист по заключению договоров (после согласования коммерческого предложения)
                  </div>
@@ -230,7 +227,7 @@ $_SESSION['first'] = false;
                   <a href="mailto:lda@qwmo.net">ldb@qwmo.net</a>
              </div>
              <div class="item">
-                 <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ЭКОЛОГИИ:</h3></div>
+                 <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ЭКОЛОГИИ</h3></div>
 
                  <div class="purpule boss">Руководитель, зам. директора по экологии</div>
                  <div class="people">
@@ -301,7 +298,7 @@ $_SESSION['first'] = false;
         </div>
 
                 <div class="item">
-                    <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ HR:</h3> </div>
+                    <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ HR</h3> </div>
                     <div class="people">
                       Светлана Ивановна <span class="lastname">РОМАНЕНКО</span>
                     </div>
