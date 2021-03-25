@@ -262,16 +262,15 @@ $_SESSION['first'] = false;
                <a class="phone" href="tel:+77084396448">+7 708 439 64 48</a>
            </div>
          </div>
-<!--            <div class="box row">
+          <div class="box row">
               <div class="item_press col-sm-12 item">
                 <div class="purpule boss">
                    Специалист по связям с прессой
                 </div>
                 <div class="people">
-                  <span>Алина</span> <span class="lastname">НУРМУХАМЕТОВА</span>
+                  <span>Иван</span> <span class="lastname">СТРИЖАКОВ</span>
                 </div>
-                <a href="mailto:an@qwmo.net">an@qwmo.net</a>
-                <a class="phone" href="tel:+7 700 250 58 26">+7 700 250 58 26</a>
+                <a href="mailto:an@qwmo.net">is@qwmo.net</a>
               </div>
           </div>
           <div class="box row">
@@ -280,12 +279,13 @@ $_SESSION['first'] = false;
                   Ведущий корпоративный дизайнер
                 </div>
                 <div class="people">
-                  <span>Герасим</span> <span class="lastname">ИВАНОВ</span>
+                  <span>Василий</span> <span class="lastname">ЗОЛОТУХИН</span>
                 </div>
-                <a href="mailto:ig@qwmo.net">ig@qwmo.net</a>
-                <a class="phone" href="tel:+7 777 134 48 86">+7 777 134 48 86</a>
+                <a href="mailto:vz@qwmo.net">vz@qwmo.net</a>
+                <a class="phone" href="tel:+7 708 439 64 48">+7 708 439 64 48</a><br>
+                <a class="phone" href="tel:+7 7212 79 40 50">+7 7212 79 40 50</a><br>
               </div>
-          </div> -->
+          </div>
            <div class="box row">
              <div class="item_press col-sm-12 item">
                 <div class="purpule boss">
