@@ -259,8 +259,7 @@ $_SESSION['first'] = false;
                      <span>Юрий</span> <span class="lastname">САВЧЕНКО</span>
                </div>
                 <a href="mailto:pr@qwmo.net">pr@qwmo.net</a>
-               <a class="phone" href="tel:+77084396448">+7 708 439 64 48</a>
-           </div>
+            </div>
          </div>
           <div class="box row">
               <div class="item_press col-sm-12 item">
@@ -281,20 +280,11 @@ $_SESSION['first'] = false;
                 <div class="people">
                   <span>Василий</span> <span class="lastname">ЗОЛОТУХИН</span>
                 </div>
-                <a href="mailto:vz@qwmo.net">vz@qwmo.net</a>
-                <a class="phone" href="tel:+7 708 439 64 48">+7 708 439 64 48</a><br>
+                <a href="mailto:vz@qwmo.net">vz@qwmo.net</a><br>
+                <a class="phone" href="tel:+7 708 439 64 48">+7 708 439 64 48</a>
                 <a class="phone" href="tel:+7 7212 79 40 50">+7 7212 79 40 50</a><br>
               </div>
           </div>
-           <div class="box row">
-             <div class="item_press col-sm-12 item">
-                <div class="purpule boss">
-                   Телефон пресс-службы
-               </div>
-                     <a class="phone" href="tel:+7 7212 79 40 50">+7 7212 79 40 50</a>
-
-           </div>
-        </div>
         </div>
 
                 <div class="item">
