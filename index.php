@@ -337,7 +337,7 @@ $_SESSION['first'] = false;
                          </tr>
                          <tr>
                              <td>Тараз </td>
-                             <td><a href="tel:8 777 117 54 82" class="phone">8 708 439 53 00</a></td>
+                             <td><a href="tel:8 777 117 54 82" class="phone">8 777 117 54 82</a></td>
                          </tr>
                          <tr>
                              <td>Талдыкорган </td>
