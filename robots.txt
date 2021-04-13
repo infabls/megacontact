@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rpo.kz/sitemap.xml
+Sitemap: https://4920.kz/sitemap.xml
