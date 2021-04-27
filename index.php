@@ -291,7 +291,7 @@ $_SESSION['first'] = false;
                 <div class="item">
                     <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ HR</h3> </div>
                     <div class="people">
-                      Светлана Ивановна <span class="lastname">РОМАНЕНКО</span>
+                      <br>
                     </div>
                     <a href="mailto:hr@qwmo.net">hr@qwmo.net</a>
                     <a class="phone" href="tel:+7 708 439 79 88">+7 708 439 79 88</a>
