@@ -303,77 +303,81 @@ $_SESSION['first'] = false;
                      <h3 class="gray" style="text-align: center;">
                          ОФИЦИАЛЬНЫЕ ПРЕДСТАВИТЕЛЬСТВА
                      </h3>
+                     <h4>Региональные представители компании работают в следующих регионах:</h4>
                      <table class="city-table">
                          <tr>
                              <td>Нур-Султан </td>
-                             <td><a class="phone" href="tel:8 775 081 08 06">8 775 081 08 06</a></td>
+                             <!-- <td><a class="phone" href="tel:8 775 081 08 06">8 775 081 08 06</a></td> -->
                          </tr>
                          <tr>
                              <td>Костанай </td>
-                             <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td>
+                             <!-- <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td> -->
                          </tr>
                          <tr>
                              <td>Актобе</td>
-                             <td><a class="phone" href="tel:8 707 041 41 80">8 707 041 41 80</a></td>
+                             <!-- <td><a class="phone" href="tel:8 707 041 41 80">8 707 041 41 80</a></td> -->
                          </tr>
                          <tr>
                              <td>Петропавловск</td>
-                             <td><a href="tel:8 708 439 53 00" class="phone">8 708 439 53 00</a></td>
+                             <!-- <td><a href="tel:8 708 439 53 00" class="phone">8 708 439 53 00</a></td> -->
                          </tr>
                          <tr>
                              <td>Павлодар</td>
-                             <td><a href="tel:8 708 439 53 00" class="phone">8 708 439 53 00</a></td>
+                             <!-- <td><a href="tel:8 708 439 53 00" class="phone">8 708 439 53 00</a></td> -->
                          </tr>
                          <tr>
                              <td>Экибастуз </td>
-                             <td><a href="tel:8 708 439 53 00" class="phone">8 708 439 53 00</a></td>
+                             <!-- <td><a href="tel:8 708 439 53 00" class="phone">8 708 439 53 00</a></td> -->
                          </tr>
                          <tr>
                              <td>Кокшетау </td>
-                             <td><a href="tel:8 775 081 08 06" class="phone">8 775 081 08 06</a></td>
+                             <!-- <td><a href="tel:8 775 081 08 06" class="phone">8 775 081 08 06</a></td> -->
                          </tr>
                          <tr>
                              <td>Алматы </td>
-                             <td><a href="tel:8 777 209 99 53" class="phone">8 777 209 99 53</a></td>
+                             <!-- <td><a href="tel:8 777 209 99 53" class="phone">8 777 209 99 53</a></td> -->
                          </tr>
                          <tr>
                              <td>Тараз </td>
-                             <td><a href="tel:8 777 117 54 82" class="phone">8 777 117 54 82</a></td>
+                             <!-- <td><a href="tel:8 777 117 54 82" class="phone">8 777 117 54 82</a></td> -->
                          </tr>
                          <tr>
                              <td>Талдыкорган </td>
-                             <td><a href="tel:8 705 726 33 99" class="phone">8 705 726 33 99</a></td>
+                             <!-- <td><a href="tel:8 705 726 33 99" class="phone">8 705 726 33 99</a></td> -->
                          </tr>
                          <tr>
                              <td>Семей</td>
-                             <td><a href="tel:8 747 743 16 11" class="phone">8 747 743 16 11</a></td>
+                             <!-- <td><a href="tel:8 747 743 16 11" class="phone">8 747 743 16 11</a></td> -->
                          </tr>
                          <tr>
                              <td>Кызылорда</td>
-                             <td><a class="phone" href="tel:8 778 875 88 88">8 778 875 88 88</a></td>
+                             <!-- <td><a class="phone" href="tel:8 778 875 88 88">8 778 875 88 88</a></td> -->
                          </tr>
                          <tr>
                              <td>Усть-Каменогорск</td>
-                             <td><a class="phone" href="tel:8 708 440 27 50">8 708 440 27 50</a></td>
+                             <!-- <td><a class="phone" href="tel:8 708 440 27 50">8 708 440 27 50</a></td> -->
                          </tr>
                          <tr>
                              <td>Балхаш</td>
-                             <td><a class="phone" href="tel:8 776 296 01 51">8 776 296 01 51</a></td>
+                             <!-- <td><a class="phone" href="tel:8 776 296 01 51">8 776 296 01 51</a></td> -->
                          </tr>
                          <tr>
                              <td>Уральск</td>
-                             <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td>
+                             <!-- <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td> -->
                          </tr>
                          <tr>
                              <td>Жезказган</td>
-                             <td><a class="phone" href="tel:8 705 188 34 91">8 705 188 34 91</a></td>
+                             <!-- <td><a class="phone" href="tel:8 705 188 34 91">8 705 188 34 91</a></td> -->
                          </tr>
                          <tr>
                              <td>Шымкент   </td>
-                             <td><a class="phone" href="tel:8 777 245 97 34">8 777 245 97 34</a></td>
+                             <!-- <td><a class="phone" href="tel:8 777 245 97 34">8 777 245 97 34</a></td> -->
                          </tr>
 
                      </table>
+                      <div class="purpule note">
+                        Представители в регионах исполняют условия заключенных договоров на местах. Запросы на коммерческое предложение, а также заключение договоров производится исключительно через центральный офис компании, расположенный в Караганде.
+                      </div>
                      <div class="purpule note">
                          Договоры с заказчиками оформляются только
                          через центральный офис в Караганде:
