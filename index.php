@@ -12,7 +12,7 @@ session_start();
 <body>
   <div class="body-wrapper">
     <?php include 'includes/navbar.php'; ?>
-    <script src="https://rpo.kz/style/js/lazy.js"></script>
+    <script src="/style/js/lazy.js"></script>
     <div id="services" class="section anchor">
       <div class="light-wrapper">
         <div class="container inner">
