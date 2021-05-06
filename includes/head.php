@@ -1,10 +1,8 @@
 <head>
 <meta charset="utf-8">
-<meta http-equiv="Last-Modified" content="Mon, 11 May 2020 06:47:28 GMT">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link rel="shortcut icon" href="../300.ico">
-
  <!-- social -->
 <!-- <meta property="og:title" content="Промотход Сервис">
 <meta property="og:type" content="article">
@@ -14,7 +12,6 @@
 <!-- <meta property="fb:admins" content="">  -->
 <!-- <meta property="og:description" content="Экологичные контейнерные площадки для вашего бизнеса"> -->
 <meta property="og:locale" content="ru_RU">
-
 <!-- <meta name="twitter:card" content="summary_large_image"> -->
 <!-- <meta name="twitter:site" content="@Freepik_Vectors">
 <meta name="twitter:creator" content="@Freepik_Vectors"> -->
@@ -28,4 +25,4 @@
       <script src="style/js/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
       <![endif]-->
-<script src="https://rpo.kz/style/js/jquery.min.js"></script>
+

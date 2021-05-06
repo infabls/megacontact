@@ -22,10 +22,11 @@
 <link href="https://rpo.kz/style/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.2" rel="stylesheet" type="text/css" /> -->
 <link href="https://rpo.kz/style.css" rel="stylesheet">
 <!-- <link href="https://rpo.kz/style/css/color/blue.css" rel="stylesheet"> -->
-<link href="https://rpo.kz/style/type/budicons.css" rel="stylesheet">
+<!-- <link href="https://rpo.kz/style/type/budicons.css" rel="stylesheet"> -->
 <link href="../../style/css/site.addons.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
-<script src="https://rpo.kz/style/js/bootstrap.min.js"></script>
+<!-- <script src="https://rpo.kz/style/js/bootstrap.min.js"></script> -->
+<script src="/js/jquery.min.js"></script>
 <script src="https://rpo.kz/style/js/twitter-bootstrap-hover-dropdown.min.js"></script>
 <!-- <script src="https://rpo.kz/style/js/jquery.themepunch.plugins.min.js"></script>
 <script src="https://rpo.kz/style/js/jquery.themepunch.revolution.min.js"></script>

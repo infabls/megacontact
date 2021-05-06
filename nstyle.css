@@ -349,6 +349,9 @@ display: flex !important;
 
 
 @media(max-width:767px){
+    .page {
+      padding: 8px;
+    }
     .navbar-collapse.collapse {
       display: none !important; 
     }
