@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include '../includes/head.php'; ?>
-<title>4920</title>
-<!-- <meta name="description" content="О компании Промотход Сервис - лидера на рынке контейнерных площадок для бизнеса"> -->
+<title>Вакансии от компании 4920 - Утилизация и переработка отходов в Казахстане</title>
+<meta name="description" content="Вакансии от компании 4920.kz Инженер ТБ и ОТ, Руководитель отдела экологии, Кладовщик, Сварщик, Электрик, Менеджер, Оператор пресса. Утилизация отходов в Караганде">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://4920.kz/pages/2"/>
 </head>

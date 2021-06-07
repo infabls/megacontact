@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include '../includes/head.php'; ?>
-<title>4920</title>
-<!-- <meta name="description" content="О компании Промотход Сервис - лидера на рынке контейнерных площадок для бизнеса"> -->
+<title>Закон Об электронном документе и электронной цифровой подписи - 4920.kz Караганда</title>
+<meta name="description" content="Об электронном документе и электронной цифровой подписи 4920.kz - ваш надежный партнер в области утилизации отходов в Караганде">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://4920.kz/pages/2"/>
 </head>

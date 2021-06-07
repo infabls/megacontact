@@ -4,8 +4,8 @@ session_start();
 <!DOCTYPE html>
 <html lang="ru">
 <?php include 'includes/head.php'; ?>
-<title>4920 утилизация отходов в Казахстане</title>
-<meta name="description" content="Утилизация отходов и прием вторсырья в Казахстане от компании 4920. На сайте доступны контакты и телефоны компаний по утилизации отходов">
+<title>4920 утилизация отходов в Казахстане и Караганде</title>
+<meta name="description" content="Утилизация отходов и прием вторсырья в Казахстане и Караганде от компании 4920. На сайте доступны контакты и телефоны компаний по утилизации отходов">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://4920.kz"/>
 </head>

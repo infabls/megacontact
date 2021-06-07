@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include '../includes/head.php'; ?>
-<title>4920</title>
-<!-- <meta name="description" content="О компании Промотход Сервис - лидера на рынке контейнерных площадок для бизнеса"> -->
+<title>Официальное заявление о переходе на электронно-цифровой документооборот -  4920.kz Караганда</title>
+<meta name="description" content="Заявление о переходе нашей компании на эцд. Цифровой документооборот позволяет снижать издержки, временные затраты на перемещение документов. 4920.kz - Ваш надежный партнер в области утилизации отходов в Казахстане">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://4920.kz/pages/3"/>
 </head>

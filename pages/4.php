@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include '../includes/head.php'; ?>
-<title>Инструкция на двух языках</title>
-<!-- <meta name="description" content="О компании Промотход Сервис - лидера на рынке контейнерных площадок для бизнеса"> -->
+<title>Как заключить договор на утилизацию отходов? 4920 Караганда</title>
+<meta name="description" content="Инструкция как заключить с нами договор на вывоз и переработку отходов. Подайте заявку и получите коммерческое предложение на утилизацию отходов от компании 4920 в Караганде">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://4920.kz/pages/4"/>
 <style media="screen">
