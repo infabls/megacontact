@@ -217,7 +217,6 @@ session_start();
 
      <div class="purpule boss">Руководитель, зам. директора по экологии</div>
      <div class="people">
-       Юрий <span class="lastname">ШЕДРИКС</span>
      </div>
      <a href="mailto:de@qwmo.net">de@qwmo.net</a>
      <div class="purpule boss">Специалист</div>
@@ -276,7 +275,7 @@ session_start();
 <div class="item">
   <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ HR</h3> </div>
   <div class="people">
-    <br>
+    <span>Нурила</span> <span class="lastname">МЕДЕРОВА</span>
   </div>
   <a href="mailto:hr@qwmo.net">hr@qwmo.net</a>
   <a class="phone" href="tel:+7 708 439 79 88">+7 708 439 79 88</a>
