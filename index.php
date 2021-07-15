@@ -379,7 +379,7 @@ session_start();
     <div class="col-wrapper">
       <div class="idocs_btn">
         <div class="idocs_btn-cont">
-          <a target="_blank" download href="/pages/perechen.docx" style="text-align:center;justify-content:center;"><img src="../download.png" alt="">Список опасных отходов (.docx)</a>
+          <a target="_blank" href="/pages/perechen.pdf" style="text-align:center;justify-content:center;">Список опасных отходов (.pdf)</a>
         </div>
       </div>
     </div>
